@@ -1,1 +1,6 @@
-pip freeze > requirements.txt
+pytelegrambotapi==4.14.0
+python-dotenv==1.0.0
+apscheduler==3.11.1
+pytz==2023.3
+schedule==1.2.0
+requests==2.31.0
